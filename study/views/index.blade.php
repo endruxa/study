@@ -7,4 +7,4 @@
     </div>
 @endsection
 
-@section('title', 'Ёпта оно работает!!!')
+@section('title', 'It\'s work!!!')

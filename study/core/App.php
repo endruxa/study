@@ -15,4 +15,4 @@ class App
     {
         return array_key_exists($key, static::$config) ? static::$config[$key] : '';
     }
-}
+}s

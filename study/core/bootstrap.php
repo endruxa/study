@@ -5,7 +5,7 @@ use Philo\Blade\Blade;
 
 require_once 'vendor/autoload.php';
 
-$config = require_once "config/app.php";
+$config = require_once "config/app.php.sample";
 
 $views = __DIR__ . '/../views';
 $cache = __DIR__ . '/../cache';

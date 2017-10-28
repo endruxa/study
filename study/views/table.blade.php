@@ -21,12 +21,13 @@
             @endfor
         </tr>
     @endfor
+</table>
 @endsection
 
 @section('title', 'Таблица умножение')
 
 @section('menu')
     <li class="nav-item">
-        <a class="nav-link disabled" href="#">hjassdahjsadasdasd</a>
+        <a class="nav-link disabled" href="#">cool</a>
     </li>
 @endsection
