@@ -24,10 +24,5 @@
 </table>
 @endsection
 
-@section('title', 'Таблица умножение')
+@section('title', 'Таблица умножения')
 
-@section('menu')
-    <li class="nav-item">
-        <a class="nav-link disabled" href="#">cool</a>
-    </li>
-@endsection

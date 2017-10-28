@@ -1,9 +1,13 @@
 <?php
-namespace App
-;
+namespace App;
 
 class PageController
 {
+    public function menu()
+    {
+        view('menu');
+    }
+
     public function index()
     {
         view('index');
