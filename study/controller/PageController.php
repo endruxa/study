@@ -3,9 +3,14 @@ namespace App;
 
 class PageController
 {
-    public function menu()
+    public function drawMenu()
     {
-        view('menu');
+        $drawMenu = [['title' => 'Главная', 'href' => '/layouts/main.blade.php'],
+            ['title' => 'About', 'href' => '/about.blade.php'],
+            ['title' => 'Таблица умножения', 'href' => '/table.blade.php'],
+            ['title' => 'Контакты', 'href' => '/phone.blade.php']];
+
+        view( 'menu',['drawMenu' => $drawMenu]);
     }
 
     public function index()

@@ -1,7 +1,6 @@
 <?php
 namespace App;
 
-use PDO;
 use Core\App;
 use Core\Request;
 
@@ -14,7 +13,6 @@ class RegisterController
         $queryBuilder->insert('tut', ['title' => 'test']);
         view('register.index');
     }
-
     public function store()
     {
         if($_SERVER['REQUEST_METHOD'] == 'POST'){
@@ -28,14 +26,14 @@ class RegisterController
                 'age' => mt_rand(18, 40)
             ]);
         }
-
         header('Location: /');
     }
+
 
     public function register()
     {
         if(Request::isPost()){
-            $pdo = new PDO('mysql:dbname=study;host=localhost', 'root', '');
+            $pdo = new \PDO('mysql:dbname=study;host=localhost', 'root', '');
 
             $name = $pdo->quote($_POST['name']);
             $pass = $pdo->quote($_POST['password']);

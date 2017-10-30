@@ -1,16 +1,14 @@
 @extends('layouts.main')
 
-@section('title', 'Начаьльная страница')
-
 @section('menu')
-   <?= @$menu = [
-    ['title' => 'Main', 'href' => 'main.blade.php'],
-    ['title' => 'Таблица умножения', 'href' => '/table.blade.php'],
-    ['title' => 'Контакты', 'href' => '/phone.blade.php'],
-    ['title' => 'About', 'href' => '/about.blade.php']
-    ];
-
-@$drawmenu = new \App\DrawMenu();
-@$drawmenu->DrawMenu(false);
-
+    {{$drawMenu}}
+   <div>
+     <ul class= navbar-nav-mr-auto>
+    @foreach($drawMenu as $item)
+         <li class= nav-item>
+         <a class = nav-link href=" {{ $item['href']}}"> {{$item['title']}} <span class=sr-only>(current)</span></a>
+         </li>
+     @endforeach
+     </ul>
+   </div>
 @endsection
