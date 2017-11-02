@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a8c1a65-d1cc-4a4d-ba1e-a947590ca9d6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0a8c1a65-d1cc-4a4d-ba1e-a947590ca9d6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,28 +32,40 @@
       <file leaf-file-name="router.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study/router.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="170">
+              <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Study.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/controller/Study.php">
+      <file leaf-file-name="RegisterController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study/controller/RegisterController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="17">
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding>
+                <marker date="1509566261833" expanded="true" signature="1106:1162" ph="INSERT INTO people... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleTwitterController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/study/controller/SimpleTwitterController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="study.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study/views/study.blade.php">
+      <file leaf-file-name="simpletwitter.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study/views/simpletwitter.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,7 +84,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="pdo" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RESET_MODE" value="MIXED" />
@@ -122,9 +132,15 @@
         <option value="$PROJECT_DIR$/study/core/RegisterController.php" />
         <option value="$PROJECT_DIR$/study/views/menu.blade.php" />
         <option value="$PROJECT_DIR$/study/controller/PageController.php" />
-        <option value="$PROJECT_DIR$/study/router.php" />
         <option value="$PROJECT_DIR$/study/controller/Study.php" />
         <option value="$PROJECT_DIR$/study/views/study.blade.php" />
+        <option value="$PROJECT_DIR$/study/views/twit.blade.php" />
+        <option value="$PROJECT_DIR$/study/controller/TwitController.php" />
+        <option value="$PROJECT_DIR$/study/controller/FoundController.php" />
+        <option value="$PROJECT_DIR$/study/views/found.blade.php" />
+        <option value="$PROJECT_DIR$/study/router.php" />
+        <option value="$PROJECT_DIR$/study/views/simpletwitter.blade.php" />
+        <option value="$PROJECT_DIR$/study/controller/SimpleTwitterController.php" />
       </list>
     </option>
   </component>
@@ -208,7 +224,22 @@
               <item name="domains" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="study" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Study.php" type="88303cf5:PhpFileNode" />
+              <item name="RegisterController.php" type="88303cf5:PhpFileNode" />
+            </path>
+            <path>
+              <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="domains" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="study" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="SimpleTwitterController.php" type="88303cf5:PhpFileNode" />
+            </path>
+            <path>
+              <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="domains" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="study" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="SimpleTwitterController.php" type="88303cf5:PhpFileNode" />
+              <item name="SimpleTwitterController" type="e2efd96b:PhpElementNode" />
             </path>
             <path>
               <item name="domains" type="b2602c69:ProjectViewProjectNode" />
@@ -319,7 +350,7 @@
       <workItem from="1509304250036" duration="5219000" />
       <workItem from="1509385755984" duration="1645000" />
       <workItem from="1509388775066" duration="323000" />
-      <workItem from="1509646878093" duration="847000" />
+      <workItem from="1509646878093" duration="2098000" />
     </task>
     <task id="LOCAL-00001" summary="php">
       <created>1508572346409</created>
@@ -339,7 +370,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108532000" />
+    <option name="totallyTimeSpent" value="109783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,6 +383,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20372751" sideWeight="0.49511856" order="0" side_tool="false" content_ui="combo" x="71" y="172" width="259" height="557" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.49485862" order="6" side_tool="false" content_ui="tabs" />
@@ -360,7 +392,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17015342" sideWeight="0.49485862" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.21478382" sideWeight="0.49357328" order="7" side_tool="false" content_ui="tabs" x="18" y="661" width="1556" height="154" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.21478382" sideWeight="0.49357328" order="7" side_tool="false" content_ui="tabs" x="18" y="661" width="1556" height="154" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19987147" sideWeight="0.50488144" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -457,14 +489,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/study/views/index.blade.php" />
-    <entry file="file://$PROJECT_DIR$/study/router.php" />
-    <entry file="file://$PROJECT_DIR$/study/core/bootstrap.php" />
-    <entry file="file://$PROJECT_DIR$/study/router.php" />
-    <entry file="file://$PROJECT_DIR$/study/.htaccess" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/controller/PageController.php" />
     <entry file="file://$PROJECT_DIR$/core/App.php" />
     <entry file="file://$PROJECT_DIR$/study/RegiterController.php" />
     <entry file="file://$PROJECT_DIR$/study/DB/DBConnector.php" />
@@ -477,7 +501,6 @@
     <entry file="file://$PROJECT_DIR$/study/views/phone.blade.php" />
     <entry file="file://$PROJECT_DIR$/study/views/hello/index.blade.php" />
     <entry file="file://$PROJECT_DIR$/study/controller/DrawMenu.php" />
-    <entry file="file://$PROJECT_DIR$/study/views/table.blade.php" />
     <entry file="file://$PROJECT_DIR$/study/views/register/index.blade.php" />
     <entry file="file://$PROJECT_DIR$/study/controller/Contact.php" />
     <entry file="file://$PROJECT_DIR$/study/core/helper.php" />
@@ -490,7 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/controller/HelloController.php" />
     <entry file="file://$PROJECT_DIR$/study/cache/212ea7d9c1ecb9510db89eaf2c97ab21ed635692.php" />
     <entry file="file://$PROJECT_DIR$/study/views/layouts/main.blade.php" />
     <entry file="file://$PROJECT_DIR$/study/cache/594d41af0a4faf2811ca5fd0480b47efc7240b37.php" />
@@ -522,25 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/controller/RegisterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding>
-            <element signature="e#22#35#0#PHP" expanded="true" />
-            <marker date="1509566261833" expanded="true" signature="1106:1162" ph="INSERT INTO people... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study/controller/TwitterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -549,10 +552,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/router.php">
+    <entry file="file://$PROJECT_DIR$/study/views/study.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -565,10 +568,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/views/study.blade.php">
+    <entry file="file://$PROJECT_DIR$/study/controller/TwitterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/controller/TwitController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/views/twit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/views/table.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/controller/FoundController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/controller/HelloController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/views/found.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/views/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/views/simpletwitter.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/controller/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <marker date="1509566261833" expanded="true" signature="1106:1162" ph="INSERT INTO people... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/controller/SimpleTwitterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
           <folding />
         </state>
       </provider>
