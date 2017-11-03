@@ -1,6 +1,4 @@
-hello
 
-{{--
 @extends('layouts.main')
 
 @section('content')
@@ -15,4 +13,4 @@ hello
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
-@endsection--}}
+@endsection
